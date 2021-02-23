@@ -6,3 +6,4 @@ Ecommmerce ==> add a reviews system with notifications for remembering the user 
 2. https://outspokenmedia.com/international-seo-strategy/ for managing if you need to translate the website, by a ccTLD or both.
 3. Rename multiple file in windows, for example, changing .js to .ts, in the prompt ==>  Get-ChildItem *.js | Rename-Item -NewName { $_.Name.Replace('.js','.ts') }
 4. Learning CSS FlexBox ==> https://flexboxfroggy.com/#pt-br
+5. https://frontendchecklist.io/ when making a front end Job, don't forget to check if everything is in order
